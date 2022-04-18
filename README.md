@@ -27,3 +27,8 @@ The results of the t test show that the lots produce a mean PSI of 1498.8 and a 
 The p value is much higher than 0.05 meaning that we fail to reject the null hypothesis and cannot find significant differences newtween the mean from our sample lots and a population with a mean of 1500 PSI.
 
 ## Study Design: MechaCar vs Competition
+
+One study to investigate MechaCar's superiority to competitors could be a t-test would be to compare the fuel efficiency, and the horse power of the MechaCar to other cars.
+The t-test would be ran to test the null-hypothesis that there is no difference between the MechaCar and competitors in these 2 variables.
+The test would need data on the MechaCar's hore power and fuel efficiency on highways as well as the same data for at least 2 competitors.
+A one-sample t-test could be ran to compare the sample of MechaCar's against the population of multiple car brands to see if the MechaCar has greater horse power and greater fuel efficiency on highways. 
